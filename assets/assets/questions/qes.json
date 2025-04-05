@@ -33,10 +33,5 @@
     "id": "q6",
     "text": "¿Conoces alguna marca de perfumes en particular que te guste o que ya hayas probado?",
     "options": ["Sí, tengo marcas preferidas", "No, estoy abierto a diferentes opciones", "Solo he probado perfumes de perfumería artística", "Prefiero los perfumes de marcas de moda"]
-  },
-  {
-    "id": "q7",
-    "text": "¿Cuál es la última fragancia que has usado y que te gustó mucho? (Si corresponde)",
-    "options": ["[Nombre del perfume]", "No me acuerdo", "No uso perfumes a menudo"]
   }
 ]

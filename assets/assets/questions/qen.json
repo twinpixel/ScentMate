@@ -33,10 +33,5 @@
     "id": "q6",
     "text": "Are you familiar with any particular perfume brands that you like or have already tried?",
     "options": ["Yes, I have favorite brands", "No, I am open to different options", "I have only tried niche perfumes", "I prefer perfumes from fashion brands"]
-  },
-  {
-    "id": "q7",
-    "text": "What is the last fragrance you wore and really liked? (If applicable)",
-    "options": ["[Name of the perfume]", "I don't remember", "I don't wear perfume often"]
   }
 ]

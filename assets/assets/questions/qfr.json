@@ -33,10 +33,5 @@
     "id": "q6",
     "text": "Connaissez-vous des marques de parfums en particulier que vous aimez ou que vous avez déjà essayées ?",
     "options": ["Oui, j'ai des marques préférées", "Non, je suis ouvert à différentes options", "J'ai seulement essayé des parfums de parfumerie artistique", "Je préfère les parfums de marques de mode"]
-  },
-  {
-    "id": "q7",
-    "text": "Quel est le dernier parfum que vous avez porté et que vous avez beaucoup aimé ? (Si applicable)",
-    "options": ["[Nom du parfum]", "Je ne me souviens pas", "Je ne porte pas souvent de parfum"]
   }
 ]
